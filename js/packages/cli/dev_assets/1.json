@@ -1,0 +1,50 @@
+{
+  "name": "Solana Land #1",
+  "symbol": "SL",
+  "description": "Solana Lands is the collection of 1333 algorithmically generated NFTs with different attributes and rarity levels. The NFTs are split into commercial and residential lands. Staking your lands will earn you $MONEY tokens as rental income. The tokens will also be a pass for your next Solana Lands collections. the more lands you own, the more $MONEY you earn and the more influential you become in this game of acquisition. ",
+  "seller_fee_basis_points": 500,
+  "image": "1.png",
+  "external_url": "https://solanalands.com",
+  "edition": 1,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Sky Blue"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Black Shade"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "1"
+    },
+    {
+      "trait_type": "Land",
+      "value": "Hospital"
+    },
+    {
+      "trait_type": "Road",
+      "value": "Grainsboro Single Road"
+    },
+    {
+      "trait_type": "Car",
+      "value": "White Car"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5K9iMartHjpiF5oCTJyXLKQ1JY23S7bXPrH3jdkw5UBq",
+        "share": 100
+      }
+    ]
+  }
+}
